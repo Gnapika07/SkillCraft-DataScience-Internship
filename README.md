@@ -45,5 +45,5 @@ For this task, we visualize **India's population distribution by age group (2022
 ---
 
 ### 👩‍💻 Created by
-**[Your Name]**  
+**Devarakonda Gnapika**  
 Data Science Intern, SkillCraft Technology
